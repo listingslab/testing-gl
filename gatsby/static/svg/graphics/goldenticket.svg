@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="397px" height="307px" viewBox="0 0 397 307" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>goldenticket</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#C09F52" offset="0%"></stop>
+            <stop stop-color="#87703B" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="goldenticket" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <path d="M397,153.5 L303.815278,284.523214 C299.036574,291.101786 293.338889,296.49256 286.722222,300.695536 C280.105556,304.898512 272.753704,307 264.666667,307 L33.083333,307 C23.985417,307 16.1970486,303.779241 9.7182292,297.337723 C3.2394097,290.896205 0,283.152679 0,274.107143 L0,32.892857 C0,23.847321 3.2394097,16.103795 9.7182292,9.662277 C16.1970486,3.220759 23.985417,0 33.083333,0 L264.666667,0 C272.753704,0 280.105556,2.101488 286.722222,6.304464 C293.338889,10.50744 299.036574,15.898214 303.815278,22.476786 L397,153.5 Z" id="Label"></path>
+        </g>
+    </g>
+</svg>
